@@ -1,0 +1,19 @@
+{
+  "name": "nanojsworker",
+  "version": "0.1.0",
+  "description": "Nano Worker C bindings for NodeJS",
+  "scripts": {
+    "start": "node-gyp configure build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devfabiosilva/nanojs-worker"
+  },
+  "author": "Fábio Pereira da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devfabiosilva/nanojs-worker/issues"
+  },
+  "homepage": "https://github.com/devfabiosilva"
+}
